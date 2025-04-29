@@ -1,0 +1,252 @@
+{
+	"mouseover": [{
+		"selector": "#live2d",
+		"text": ["FapDex tambien es un fansub.", "Bienvenido a FapDex.", "Puro contenido de calidad.", "Estamos reclutando Uploaders.", "Disfruta lo esquisito.", "No me toques, mierdecita.", "Solo recopilamos lo mejor.", "Descarga de los mejores servidores.", "Si puedes, haz una donacion.", "¡No! a los acortadores molestos.", "Por favor, apoyanos compartiendo la web.", "No olvides dejar un comentario."]
+	}, {
+		"selector": "#waifu-tool-hitokoto",
+		"text": ["¿Adivina qué voy a decir?", "Aprendi mucho de FapDex"]
+	}, {
+		"selector": "#waifu-tool-asteroids",
+		"text": ["¿Te gustaría jugar?", "No deberias dar clic.", "¿Quieres jugar conmigo?", "¡Vamos a bailar!"]
+	}, {
+		"selector": "#waifu-tool-switch-model",
+		"text": ["Se que nunca me amaste.", "¿La otra es mejor?", "Que vil mujeriego.", "Siempre fui un juego para ti."]
+	}, {
+		"selector": "#waifu-tool-switch-texture",
+		"text": ["Vamos a jugar.", "Voy a matar a toda tu familia.", "Soy un Jagdpanther.", "Artilleria de 40mm."]
+	}, {
+		"selector": "#waifu-tool-photo",
+		"text": ["¿Quieres tomarme una foto?", "No puedes tener fotos de mis pies.", "Me veo mejor en 4."]
+	}, {
+		"selector": "#waifu-tool-info",
+		"text": ["¿Es hora de decir adios?", "Drogas, alcohol y putas.", "¿Qué más quieres saber sobre mí?"]
+	}, {
+		"selector": "#waifu-tool-quit",
+		"text": ["¿Es hora de decir adios?", "Tu madre es una puta...", "Nunca debi amarte...", "Algun dia regresare.", "Te arrepnetiras."]
+	}, {
+		"selector": ".menu-item-home a",
+		"text": ["Regresa ala pagina principal usando el menu de navegacion.", "¡Haz clic para volver a la página principal!", "Vuelve a la página principal y echa un vistazo."]
+	}, {
+		"selector": ".menu-item-about a",
+		"text": ["Eres una zorra sucia.", "Felicidades, puta.", "Hereje de mierda."]
+	}, {
+		"selector": ".menu-item-tags a",
+		"text": ["¡Haga clic para ver las etiquetas del artículo!", "Haga clic para ver todas las etiquetas."]
+	}, {
+		"selector": ".menu-item-categories a",
+		"text": ["Los hentai están categorizados~", "Haga clic para ver las categorías de los articulos."]
+	}, {
+		"selector": ".menu-item-archives a",
+		"text": ["Los archivos estan aqui.", "¡El catálogo de artículos está organizado aquí!"]
+	}, {
+		"selector": ".menu-item-friends a",
+		"text": ["Mira no seas un conchetuamdre.", "Los voy a dormir como a los perritos.", "¿Quieres visitar a mis amigos?"]
+	}, {
+		"selector": ".menu-item-search a",
+		"text": ["¡Intenta hacer busqueda!", "¿Qué buscas? ¿Necesitas ayuda?"]
+	}, {
+		"selector": ".menu-item a",
+		"text": ["Echa un vistazo rapido a lo que hay aqui."]
+	}, {
+		"selector": ".site-author",
+		"text": ["¿Es bonito mi amo?", "Este es mi amo(*´∇｀*)"]
+	}, {
+		"selector": ".site-state",
+		"text": ["Esta es la información estadística del artículo~", "¿Quieres hacer clic y echar un vistazo?"]
+	}, {
+		"selector": ".feed-link a",
+		"text": ["¡Puedes usar la suscripción RSS aquí!", "Usando el suscriptor de feeds, puedes saber rápidamente si el blog se ha actualizado."]
+	}, {
+		"selector": ".cc-opacity, .post-copyright-author",
+		"text": ["Por favor, recuerde reimprimir de acuerdo con las regulaciones.", "Todos los artículos tienen licencia CC BY-NC-SA 4.0~", "Por favor, preste atención al acuerdo de derechos de autor del artículo antes de reimprimir."]
+	}, {
+		"selector": ".links-of-author",
+		"text": ["Esta es la dirección permanente del propietario.", "¡Aquí está la información de contacto del propietario!"]
+	}, {
+		"selector": ".followme",
+		"text": ["Puedes seguir mirando escaneando con tu teléfono, muy conveniente~", "¡Escanea y abre la puerta a un nuevo mundo!"]
+	}, {
+		"selector": ".fancybox img, img.medium-zoom-image",
+		"text": ["¡Haga clic en la imagen para ampliarla!"]
+	}, {
+		"selector": ".copy-btn",
+		"text": ["Puedes hacer clic para copiar el código directamente."]
+	}, {
+		"selector": ".highlight .table-container, .gist",
+		"text": ["¡GitHub! ¡Soy nuevo aquí!", "¡PHP es el mejor lenguaje!"]
+	}, {
+		"selector": "a[href^='mailto']",
+		"text": ["¡Responderé al correo electrónico a tiempo!", "Haz clic para enviar el correo electrónico~"]
+	}, {
+		"selector": "a[href^='/category/']",
+		"text": ["¿Quieres consultar la categoria <span>{text}</span>？", "¡Haz clic para ver todos los artículos bajo esta categoria!"]
+	}, {
+		"selector": "a[href^='/generos/']",
+		"text": ["¿Quieres consultar el genero <span>{text}</span>？", "¡Haz clic para ver todos los artículos de este genero!"]
+	}, {
+		"selector": ".post-title-link",
+		"text": ["¿Quieres leer el artículo <span>{text}</span> ？"]
+	}, {
+		"selector": "a[rel='contents']",
+		"text": ["Haga clic aquí para leer el texto completo."]
+	}, {
+		"selector": "a[itemprop='discussionUrl']",
+		"text": ["¿Quieres ver los comentarios?"]
+	}, {
+		"selector": ".beian a",
+		"text": ["Yo también soy residente registrado.", "Mi amo es un amo es respetuoso de la ley."]
+	}, {
+		"selector": ".container a[href^='http'], .nav-link .nav-text",
+		"text": ["¿Quieres ir a echar un vistazo a <span>{text}</span> ？", "Ve a echar un vistazo a <span>{text}</span>", " Interesado en <span>{text}</span>"]
+	}, {
+		"selector": ".scroll-up",
+		"text": ["¡Haz clic para volver arriba!", "Volver al punto de partida~", "¿Quieres volver al principio?"]
+	}, {
+		"selector": ".a-info",
+		"text": ["Informacion tecnica.", "Conoce mas de tu contenido.", "Una lectura rapida es buena."]
+	}, {
+		"selector": ".generos-list-widget",
+		"text": ["Listado de generos."]
+	}, {
+		"selector": ".entry-title",
+		"text": ["Conoce el titulo de tu hentai"]
+	}, {
+		"selector": ".generos-button",
+		"text": ["Que estas mirando."]
+	}, {
+		"selector": "#needsharebutton-postbottom .btn",
+		"text": ["Las cosas buenas necesitan ser conocidas por más gente."]
+	}, {
+		"selector": ".need-share-button_weibo",
+		"text": ["¡Ven a compartir miau!"]
+	}, {
+		"selector": ".need-share-button_wechat",
+		"text": ["分享到微信吧！"]
+	}, {
+		"selector": ".need-share-button_douban",
+		"text": ["分享到豆瓣好像也不错！"]
+	}, {
+		"selector": ".need-share-button_qqzone",
+		"text": ["QQ 空间，一键转发，耶～"]
+	}, {
+		"selector": ".need-share-button_twitter",
+		"text": ["Twitter？好像是不存在的东西？"]
+	}, {
+		"selector": ".need-share-button_facebook",
+		"text": ["emmm…FB 好像也是不存在的东西？"]
+	}, {
+		"selector": ".post-nav-item a[rel='next']",
+		"text": ["Ven a ver el siguiente artículo.", "¡Haz clic para ver el siguiente artículo!", "¿Quieres ir al siguiente artículo?"]
+	}, {
+		"selector": ".post-nav-item a[rel='prev']",
+		"text": ["Ven a ver el artículo anterior.", "¡Haz clic para ver el artículo anterior!", "¿Quieres ir al artículo anterior?"]
+	}, {
+		"selector": ".next page-numbers",
+		"text": ["Ir a la página siguiente.", "¡Haz clic para avanzar!", "¿Quieres ir a la página siguiente?"]
+	}, {
+		"selector": ".prev page-numbers",
+		"text": ["Ir a la página anterior.", "¡Haz clic para volver!", "¿Quieres ir a la página anterior?"]
+	}, {
+		"selector": "input.vnick",
+		"text": ["¿Cómo debería llamarte?", "¡Por favor, deja tu nombre!"]
+	}, {
+		"selector": ".vmail",
+		"text": ["留下你的邮箱，不然就是无头像人士了！", "记得设置好 Gravatar 头像哦！", "为了方便通知你最新消息，一定要留下邮箱！"]
+	}, {
+		"selector": ".vlink",
+		"text": ["快快告诉我你的家在哪里，好让我去参观参观！"]
+	}, {
+		"selector": ".veditor",
+		"text": ["想要去评论些什么吗？", "要说点什么吗？", "觉得博客不错？快来留言和主人交流吧！"]
+	}, {
+		"selector": ".vcontrol a",
+		"text": ["你会不会熟练使用 Markdown 呀？", "使用 Markdown 让评论更美观吧～"]
+	}, {
+		"selector": ".vemoji-btn",
+		"text": ["要插入一个萌萌哒的表情吗？", "要来一发表情吗？"]
+	}, {
+		"selector": ".vpreview-btn",
+		"text": ["要预览一下你的发言吗？", "快看看你的评论有多少负熵！"]
+	}, {
+		"selector": ".vsubmit",
+		"text": ["评论没有审核，要对自己的发言负责哦～", "要提交了吗，请耐心等待回复哦～"]
+	}, {
+		"selector": ".vcontent",
+		"text": ["哇，快看看这个精彩评论！", "如果有疑问，请尽快留言哦～"]
+	}],
+	"click": [{
+		"selector": "#live2d",
+		"text": ["El hentai es arte.", "Los monitos chinos teniendo coito son mas complejos de lo que parece.", "El hentai en japon lo llaman Ero Anime o Adult Anime.", "El termino hentai se lo pusimos los occidentales para sonar mas exoticos, como buenos degenerados que somos.", "El estudio Pink Pineapple es de los mas antiguos.", "Queen Bee se enfoca en las novelas visuales japonesas", "PoRO tiene el arte mas facil de reconocer entre los estudios.", "Al estudio Mary Jane le gusta ponerle lore a sus historias", "T-Rex es el estudio mas arriesgado de todos.", "Una licencia hentai cuenta entre 15 mil dolares", "¿Que son OVAs? Una OVA (Original Video Animation) es como una mini película o episodio especial que no va a tele ni cine.", "Algunos fastsubs son un cancer para la comunidad.", "La pagina esta cifrada, descarga con calma.", "Todos los artículos tienen licencia CC BY-NC-SA 4.0~", "Todos nuestros archivos estan en servidores de terceros.", "No alojamos ningun archivo.", "La censura japonesa no deberia existir.", "El NTR es el genero TOP.", "El vainilla siempre limpia el alma.", "Descarga comodamente."]
+	}, {
+		"selector": ".veditor",
+		"text": ["¿De qué quieres quejarte?", "Por favor, rellénalo con cuidado, miau~", "¿Hay algo que quieras decir?"]
+	}, {
+		"selector": ".vsubmit",
+		"text": ["Ingresa el código de verificación para enviar tu comentario~"]
+	}],
+	"seasons": [{
+		"date": "01/01",
+		"text": "<span>Feliz año, </span>{year}."
+	}, {
+		"date": "02/14",
+		"text": "<span>San Valentín</span>，ya tienes novia para este {year}"
+	}, {
+		"date": "03/08",
+		"text": "¡Hoy es el <span>Día Internacional de la Mujer</span>!"
+	}, {
+		"date": "03/12",
+		"text": "Hoy es el <span>Día del Árbol</span>, ¡debemos proteger el medio ambiente!"
+	}, {
+		"date": "04/01",
+		"text": "Te contaré un secreto~ <span>Hoy es el Día de los Inocentes, no te dejes engañar~</span>"
+	}, {
+		"date": "05/01",
+		"text": "Hoy es el Día del Trabajo, ¿ya planeaste adónde ir para el feriado?"
+	}, {
+		"date": "06/01",
+		"text": "Es el Día del Niño, los momentos felices siempre son cortos, sería genial si nunca pudiéramos crecer..."
+	}, {
+		"date": "04/12",
+		"text": "Aniversario de FapDex"
+	}, {
+		"date": "09/10",
+		"text": "En el Día del Maestro, saluda a tus maestros en la escuela~"
+	}, {
+		"date": "11/05-11/12",
+		"text": "¿Con quién pasaste el <span>Doble Once</span> de este año~?"
+	}, {
+		"date": "12/20-12/31",
+		"text": "Hoy es Navidad, el dueño debe haber ido de compras otra vez~"
+	}],
+	"time": [{
+		"hour": "6-7",
+		"text": "¡Buenos días! No te toques sin antes desayunar"
+	}, {
+		"hour": "8-11",
+		"text": "¡Buenos días! Jalatela bien duro."
+	}, {
+		"hour": "12-13",
+		"text": "Es mediodía. Una paja y a dormir."
+	}, {
+		"hour": "14-17",
+		"text": "Es fácil sentir sueño por la tarde. Dedicame una."
+	}, {
+		"hour": "18-19",
+		"text": "¡Es de noche! Toca una deslechada."
+	}, {
+		"hour": "20-21",
+		"text": "Buenas noches, ¿cómo estás hoy?"
+	}, {
+		"hour": "22-23",
+		"text": ["Ya es tarde, vete a mimir.", "No se te olvide comer."]
+	}, {
+		"hour": "0-5",
+		"text": "¿Eres un noctámbulo? Aún no te has dormido tan tarde. ¿Puedes levantarte mañana?"
+	}],
+	"message": {
+		"default": ["Cuanto tiempo sin vernos...", "Si quieres te puedo tocar.", "Soy muy buena con las manos.", "Me encantan las nalgadas.", "Duro contra el muro."],
+		"console": "ABER HIJO DE TU PUTA MADRE, QUE ANDAS BUSCANDO PENDEJO. TE VOY A VIOLAR HIJO DE TU PUTA MADRE.",
+		"copy": "¿Qué copiaste? ¡Recuerda añadir la fuente al volver a publicar!",
+		"visibilitychange": "Te extrañe, no me vuelvas a dejar sola."
+	}
+}
